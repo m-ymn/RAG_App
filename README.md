@@ -1,12 +1,13 @@
 # RAG_App — Retrieval-Augmented Generation
 
-A Python-based project exploring **Retrieval-Augmented Generation (RAG)**, a technique that combines information retrieval with Large Language Models (LLMs) to generate context-aware responses grounded in external knowledge.
-
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![RAG](https://img.shields.io/badge/Technique-RAG-green)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Repository:** [m-ymn/RAG_App](https://github.com/m-ymn/RAG_App)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m-ymn/RAG_App/blob/main/rag_app.ipynb)
+
+A Python-based project exploring **Retrieval-Augmented Generation (RAG)**, a technique that combines information retrieval with Large Language Models (LLMs) to generate context-aware responses grounded in external knowledge.
 
 ## Overview
 
