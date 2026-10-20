@@ -1,0 +1,14 @@
+
+
+----------Pre Requisites--------
+OS: Linux with GPU (CUDA)
+Files: requirements.txt, corpus_data.json, app.py 
+
+---------Steps to run the application---------
+S1: Install the python requirements using below command 
+pip install -r requirements.txt
+
+S2: Run the python app 
+python app.py
+
+S3: Click on the localhost link to open the app interface in web browser
